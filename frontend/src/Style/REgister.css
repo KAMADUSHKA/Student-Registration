@@ -1,0 +1,176 @@
+body{
+    background-image: url(https://sifetbabo.com/wp-content/uploads/2023/02/how-to-register-your-company-in-india-min-678x381.png);
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    
+  }
+
+  
+
+#main{ 
+    text-align: center;
+   
+}
+#heading{
+    text-align: center;
+    color:rgb(207, 242, 223);
+    text-shadow: 2px 2px 3px rgb(0, 0, 0);
+    font-size: 330%;
+    text-shadow: rgb(1, 1, 1);
+    font-weight: bold;
+    margin-bottom: 0;
+    font-family: EB Garamond;
+}
+
+#lgnd{
+    color:rgba(6, 0, 0, 0.936);
+    text-shadow: 2px 2px 3px rgb(155, 153, 151);
+    font-size: 110%;
+    font-family: Caveat;
+}
+
+
+#fieldset{
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow:aliceblue;
+    background-color:rgba(250, 235, 215, 0.299);
+    
+}
+
+#fieldsetFormat{
+    height: 39%;
+    width: 70%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow:aliceblue;
+    background-color:rgba(250, 235, 215, 0.34);
+}
+
+#fieldsetLogin{
+    height: 28%;
+    width: 50%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow:aliceblue;
+    background-color:rgba(250, 235, 215, 0.34);
+}
+
+#form{
+    border-radius: 0px;
+    box-shadow: darkslategrey;
+    height: 22px;
+    width: 180px;
+    border-color: black;
+    
+}
+
+
+#inputf{
+    height: 40px;
+    width: 300px;
+border-radius: 20px;
+text-align: center;
+border-color: black;
+
+}
+
+#btn{
+    height: 40px;
+    width: 170px;
+    border-radius: 20px;
+    background-color:rgb(30, 143, 255);
+    font-size: 110%;
+}
+
+#btn:hover{
+    background-color: rgba(4, 4, 100, 0.984);
+    color: aliceblue;
+}
+
+#loginLink{
+    font-size: 18px;
+    color: rgb(15, 6, 1);
+
+}
+
+/* #btn2{
+    /* background-color:transparent;
+    border-color: transparent; */
+    /* color: rgba(105, 6, 6, 0.918);
+    font-size: 20px; */
+
+/* } */ */
+
+
+
+#detail{
+    font-size: 45px;
+    color: rgba(243, 13, 13, 0.774);
+    
+}
+
+#format-main{
+    font-size: 27px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#deletBtn{
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    background-color:dodgerblue;
+    font-size: 120%;
+}
+
+
+
+/*home page*/
+
+#first-statment{
+    font-size: 280%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#first-statment-upercase{
+    font-size: 650%;
+    font-family: Foldit;
+    color:coral;
+    text-shadow: 4px 4px 2px rgb(0, 0, 0);
+}
+
+#paragrap{
+    font-size: 200%;
+    font-family: Foldit;
+}
+
+#homepage-btn{
+    /* padding: 10px 40px 10px 40px; */
+    height: 50px;
+    width: 180px;
+    font-size: 130%;
+    margin-left: 2%;
+    border-radius: 10px;
+    background-color: transparent;
+    color: rgb(240, 13, 13);
+}
+
+#homepage-btn:hover{
+    background-color: rgb(240, 13, 13);
+    color: black;
+}
+
+#start-statment{
+    margin-left: 20%;
+}
+
+#login-register{
+    margin-left: 10%;
+}

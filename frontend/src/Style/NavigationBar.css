@@ -1,0 +1,63 @@
+#navBar{
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.388);
+    justify-self: start;
+    display: flex;
+
+}
+
+#navButton{
+    margin-left: 65rem;
+}
+
+
+#button{
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 6px 5px 2px 5px;
+    padding: 8px 12px 8px 12px;
+}
+
+#button:hover{
+    background-color: blue;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+
+#head-text{
+    color: rgb(246, 246, 251);
+    margin: 0.5px 0 0 2rem;
+    font-size: 18px;
+    background-color: transparent;
+    border-radius: 6px;
+     
+}
+
+@media screen and (max-width: 1445px) {
+    #navButton{
+        margin-left: 55rem;
+    }
+    
+}
+
+@media screen and (max-width: 1300px) {
+    #navButton{
+        margin-left: 40rem;
+    }
+    
+}
+
+@media screen and (max-width: 1050px) {
+    #navButton{
+        margin-left: 30rem;
+    }
+    
+}
+
+@media screen and (max-width: 652px) {
+    #navButton{
+        margin-left: 5rem;
+    }
+    
+}
