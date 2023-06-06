@@ -1,6 +1,7 @@
 body{
-    background-image: url(https://sifetbabo.com/wp-content/uploads/2023/02/how-to-register-your-company-in-india-min-678x381.png);
+    background: url(https://sifetbabo.com/wp-content/uploads/2023/02/how-to-register-your-company-in-india-min-678x381.png);
     background-position: center;
+    /* background-color: aqua; */
     background-size: cover;
     width: 100vw;
     height: 100vh;
@@ -75,9 +76,9 @@ body{
 #inputf{
     height: 40px;
     width: 300px;
-border-radius: 20px;
-text-align: center;
-border-color: black;
+    border-radius: 20px;
+    text-align: center;
+    border-color: black;
 
 }
 
